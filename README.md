@@ -16,7 +16,9 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
   </p>
 🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
+
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
+
 🔧 Tools and Technologies: 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
