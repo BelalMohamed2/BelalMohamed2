@@ -14,10 +14,10 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
   <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
+  </p>
 🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
-🔧 Tools and Technologies: `Git`, `GitHub`, `LaTeX`, `SolidWorks` 
-
+🔧 Tools and Technologies: 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-Expert-black?style=flat-square&logo=github&logoColor=white">
