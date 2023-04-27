@@ -12,6 +12,27 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
 🔧 Tools and Technologies: `Git`, `GitHub`, `LaTeX`, `SolidWorks` 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Expert-black?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-Intermediate-blue?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-Intermediate-orange?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-Intermediate-green?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-green?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-Expert-orange?style=flat-square&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-Intermediate-green?style=flat-square&logo=latex&logoColor=white">
+</p>
 
 ## 💻 Projects
 
