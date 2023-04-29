@@ -72,9 +72,8 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 
 <h1 align="center">📞 Contact</h1>  
 <div align="center">
- 
-[![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/
-belal-mohamed-6120b7235)](https://www.linkedin.com/in/belalmohamed/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([[badge-image-url](https://www.linkedin.com/in/belal-mohamed-6120b7235/)])
 [![GitHub followers](https://img.shields.io/github/followers/Belal-Mohamed?label=Follow&style=social)](https://github.com/BelalMohamed2?tab=followers)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:belalmohamed.abdelkreem02@eng-st.cu.edu.eg
 )](mailto:belalmohamed.abdelkreem02@eng-st.cu.edu.eg)
