@@ -28,7 +28,7 @@
   </p>
   
 ## 🔧Tools and platforms:
-<p align="center">
+ <p align="center">
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -77,6 +77,7 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 
 
 <h1 align="center">📞 Contact</h1>  
+
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
 [![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
