@@ -1,19 +1,11 @@
 <h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineer 👨‍🔬 </h1>
 
 <h1 align="center"> 🌠 About </h1>
-👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.
-
----
-
-🔭 I'm passionate about coding and developing software. I have experience working with a variety of tools and technologies, including GitHub, Slack, Bash, and Visual Studio Code Workbench.
-
----
-
-🌱 Currently, I'm working on developing my skills in various programming languages and exploring new technologies. In my free time, I enjoy participating in coding competitions and contributing to open-source projects.
-
----
-💬 If you have any questions or want to connect, feel free to reach out to me on my GitHub profile or through LinkedIn.
-
+<p>👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.<br>
+🔭 I'm passionate about coding and developing software. I have experience working with a variety of tools and technologies, including GitHub, Slack, Bash, and Visual Studio Code Workbench.<br>
+🌱 Currently, I'm working on developing my skills in various programming languages and exploring new technologies. In my free time, I enjoy participating in coding competitions and contributing to open-source projects.<br>
+💬 If you have any questions or want to connect, feel free to reach out to me on my GitHub profile or through LinkedIn.<br>
+</p>
 
 <h1 align="center"> 🔬 Skills and Technologies  </h1> 
 
@@ -79,10 +71,12 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 
 
 <h1 align="center">📞 Contact</h1>  
-<center>
+<div aling="center">
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
 [![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
- </center>
+ 
+ </div>
 - 📧 `belal.mohamed@fiu.edu` \
 - 📱 `(123) 456-7890`
