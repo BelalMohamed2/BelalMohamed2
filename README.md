@@ -56,7 +56,7 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 
 <h1 align="left">💻 Projects</h1>
 
-###🎶🎙️ Sound Equalizer
+### 🎶🎙️ Sound Equalizer
 
 A web application that allows users to adjust frequency components of a signal via sliders, commonly used in music, speech, and biomedical applications like hearing aid abnormalities detection.
 
