@@ -20,7 +20,16 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
 
 🔧 Tools and Technologies: 
+## Tools and Technologies 
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
+
 <p align="center">
+ 
   <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-Expert-black?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-Intermediate-blue?style=flat-square&logo=docker&logoColor=white">
@@ -38,47 +47,33 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 # 💻 Projects
 
 ## 🎶🎙️ Sound Equalizer
-📅 Nov 2022 - Dec 2022
 
 A web application that allows users to adjust frequency components of a signal via sliders, commonly used in music, speech, and biomedical applications like hearing aid abnormalities detection.
 
 ---
 
 ## 📈📊 Multi-Signal Viewer
-📅 Oct 2022 - Nov 2022
 
 A demo that uses signal processing techniques to handle different signals in various states and with different actions, such as sampling, composing, and reconstructing samples.
 
 ---
 
 ## 🏥💻 HIS (Hospital Information System) Web App
-📅 Mar 2022 - Jun 2022
 
 A web app designed for hospitals to help organize gadgets, rooms, and medical reports of all patients in an efficient way, facilitating patients to choose doctors, make appointments, and follow up with doctors with less effort.
 
 ---
 
 ## 💉🔮 Diabetes Prediction Website
-📅 Jan 2022 - Jan 2022
 
 A website that uses machine learning algorithms to predict diabetes based on different parameters.
 
 
-### 🧬 Biomedical Engineering Projects
-- **Heart Disease Detection:** 💗 A machine learning model that predicts the likelihood of heart disease using patient data.
-- **3D Printing of Biocompatible Tissue Scaffolds:** 🦴 Development of a novel biocompatible scaffold design using 3D printing technology.
+# 🎓 Education
 
-### 🖥️ Programming Projects
-- **Tic Tac Toe AI:** 🤖 A command line implementation of Tic Tac Toe with an unbeatable AI using the minimax algorithm.
-- **Data Analysis of COVID-19:** 📊 Analysis of COVID-19 data using `R` and `Tableau` to visualize trends and predict future cases.
+- 🏫 Graduated from Kafr El-Sheikh STEM School - a school that focuses on science, technology, engineering, and mathematics.
+- 🎓 Currently studying at Cairo University Faculty of Engineering and Biomedical Department.
 
-### 🌐 Web Development Projects
-- **Portfolio Website:** 🌟 A responsive portfolio website created using `HTML`, `CSS`, and `JavaScript`.
-
-## 🎓 Education
-
-- **Bachelor of Science in Biomedical Engineering (Expected May 2023)** \
-  Florida International University, Miami, FL
 
 ## 📞 Contact
 
