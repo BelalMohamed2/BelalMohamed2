@@ -1,7 +1,11 @@
 <h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineering Student 👨‍🔬 </h1>
 
 <h1 align="center"> 🌠 About </h1>
-Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a current college student studying Biomedical Engineering. As I prepare for my senior year and graduation project, I am eager to find a mentor to guide and support me in the field of biomedical engineering.
+👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.
+
+🔭 I'm passionate about coding and developing software. I have experience working with a variety of tools and technologies, including GitHub, Slack, Bash, and Visual Studio Code Workbench.
+
+🌱 Currently, I'm working on developing my skills in various programming languages and exploring new technologies. In my free time, I enjoy participating in coding competitions and contributing to open-source projects.
 
 <h1 align="center"> 🔬 Skills and Technologies  </h1> 
 <p align="center">
@@ -29,17 +33,17 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 👨‍💻 Programming Languages:<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
+  
+  </p>
+<img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Html-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
-  </p>
-
 <p align="center">
  
   <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
