@@ -1,4 +1,4 @@
-# Belal Mohamed - Biomedical Engineering Student 👨‍🔬
+<p aling="center> # Belal Mohamed - Biomedical Engineering Student 👨‍🔬 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
@@ -10,10 +10,10 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 
 👨‍💻 Programming Languages:<p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Html-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
   </p>
 🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
 
