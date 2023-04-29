@@ -14,26 +14,10 @@
 ---
 💬 If you have any questions or want to connect, feel free to reach out to me on my GitHub profile or through LinkedIn.
 
-<h1 align="center"> 🔬 Skills and Technologies  </h1> 
-<p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-
-
-  </p>
-🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
-
-📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
 
 <h1 align="center"> 🔬 Skills and Technologies  </h1> 
 
-
-
-👨‍💻 Programming Languages:<p align="center">
+## 👨‍💻 Programming Languages:<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -42,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   </p>
   
- 🔧Tools and platforms:<p align="center">
+## 🔧Tools and platforms:<p align="center">
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -50,28 +34,9 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
   </p>
 
-<img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Html-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/Git-Expert-red?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-Expert-black?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-blue?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-Intermediate-orange?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-Intermediate-green?style=flat-square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-Intermediate-green?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Expert-orange?style=flat-square&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/LaTeX-Intermediate-green?style=flat-square&logo=latex&logoColor=white">
-</p>
 
-## 💻 Projects</h1>
+<h1 align="center"> 💻 Projects </h1> 
+
 
 ### 🎶🎙️ Sound Equalizer
 
@@ -96,13 +61,14 @@ A web app designed for hospitals to help organize gadgets, rooms, and medical re
 A website that uses machine learning algorithms to predict diabetes based on different parameters.
 
 
-# 🎓 Education
+<h1 align="center">🎓 Education</h1> 
+ 
 
 - 🏫 Graduated from Kafr El-Sheikh STEM School - a school that focuses on science, technology, engineering, and mathematics.
 - 🎓 Currently studying at Cairo University Faculty of Engineering and Biomedical Department.
 
 
-## 📞 Contact
+<h1 align="center">📞 Contact</h1>  
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
 [![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
