@@ -6,7 +6,7 @@
 
 Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a current college student studying Biomedical Engineering. As I prepare for my senior year and graduation project, I am eager to find a mentor to guide and support me in the field of biomedical engineering.
 
-## 🔬 Skills and Technologies 
+# 🔬 Skills and Technologies 
 
 👨‍💻 Programming Languages:<p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
@@ -35,7 +35,34 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
   <img src="https://img.shields.io/badge/LaTeX-Intermediate-green?style=flat-square&logo=latex&logoColor=white">
 </p>
 
-## 💻 Projects
+# 💻 Projects
+
+## 🎶🎙️ Sound Equalizer
+📅 Nov 2022 - Dec 2022
+
+A web application that allows users to adjust frequency components of a signal via sliders, commonly used in music, speech, and biomedical applications like hearing aid abnormalities detection.
+
+---
+
+## 📈📊 Multi-Signal Viewer
+📅 Oct 2022 - Nov 2022
+
+A demo that uses signal processing techniques to handle different signals in various states and with different actions, such as sampling, composing, and reconstructing samples.
+
+---
+
+## 🏥💻 HIS (Hospital Information System) Web App
+📅 Mar 2022 - Jun 2022
+
+A web app designed for hospitals to help organize gadgets, rooms, and medical reports of all patients in an efficient way, facilitating patients to choose doctors, make appointments, and follow up with doctors with less effort.
+
+---
+
+## 💉🔮 Diabetes Prediction Website
+📅 Jan 2022 - Jan 2022
+
+A website that uses machine learning algorithms to predict diabetes based on different parameters.
+
 
 ### 🧬 Biomedical Engineering Projects
 - **Heart Disease Detection:** 💗 A machine learning model that predicts the likelihood of heart disease using patient data.
