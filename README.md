@@ -1,7 +1,8 @@
-<h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineering Student 👨‍🔬 </h1>
+<h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineering 👨‍🔬 </h1>
 
 <h1 align="center"> 🌠 About </h1>
 👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.
+
 
 🔭 I'm passionate about coding and developing software. I have experience working with a variety of tools and technologies, including GitHub, Slack, Bash, and Visual Studio Code Workbench.
 
@@ -22,13 +23,9 @@
 
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
 
-<h1 align="center"> 🔧Tools and Technologies  </h1> 
+<h1 align="center"> 🔬 Skills and Technologies  </h1> 
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
+
 
 👨‍💻 Programming Languages:<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -37,8 +34,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  
   </p>
+  
+ 🔧Tools and platforms:<p align="center">
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
+  </p>
+
 <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
