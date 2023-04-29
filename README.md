@@ -7,7 +7,7 @@
 Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a current college student studying Biomedical Engineering. As I prepare for my senior year and graduation project, I am eager to find a mentor to guide and support me in the field of biomedical engineering.
 
 # 🔬 Skills and Technologies 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -15,12 +15,7 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
 
-👨‍💻 Programming Languages:<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Html-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
+
   </p>
 🧪 Laboratory Skills: `Microscopy`, `PCR`, `Gel Electrophoresis`, `Cell Culture` \
 
@@ -34,6 +29,14 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
+
+👨‍💻 Programming Languages:<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-Intermediate-blue?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Html-Intermediate-blue?style=flat-square&logo=typescript&logoColor=white">
+  </p>
 
 <p align="center">
  
@@ -53,13 +56,13 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 
 <h1 align="left">💻 Projects</h1>
 
-## 🎶🎙️ Sound Equalizer
+###🎶🎙️ Sound Equalizer
 
 A web application that allows users to adjust frequency components of a signal via sliders, commonly used in music, speech, and biomedical applications like hearing aid abnormalities detection.
 
 ---
 
-## 📈📊 Multi-Signal Viewer
+### 📈📊 Multi-Signal Viewer
 
 A demo that uses signal processing techniques to handle different signals in various states and with different actions, such as sampling, composing, and reconstructing samples.
 
