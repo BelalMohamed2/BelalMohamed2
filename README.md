@@ -1,4 +1,4 @@
-<p align="center"> # Belal Mohamed - Biomedical Engineering Student 👨‍🔬 </p>
+#<p align="center"> Hi Everyone 👋 I'm Belal Mohamed - Biomedical Engineering Student 👨‍🔬 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
