@@ -28,12 +28,13 @@
   </p>
   
 ## 🔧Tools and platforms:
+<center>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal)
-
+</center>
 
 <h1 align="center"> 💻 Projects </h1> 
 
@@ -75,9 +76,10 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 
 
 <h1 align="center">📞 Contact</h1>  
-
+<center>
 [![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
 [![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
 [![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
+ </center>
 - 📧 `belal.mohamed@fiu.edu` \
 - 📱 `(123) 456-7890`
