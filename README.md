@@ -17,8 +17,9 @@
 
 <h1 align="center"> 🔬 Skills and Technologies  </h1> 
 
-## 👨‍💻 Programming Languages:<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## 👨‍💻 Programming Languages:
+<p align="center">
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -26,7 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   </p>
   
-## 🔧Tools and platforms:<p align="center">
+## 🔧Tools and platforms:
+<p align="center">
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -59,6 +61,12 @@ A web app designed for hospitals to help organize gadgets, rooms, and medical re
 ## 💉🔮 Diabetes Prediction Website
 
 A website that uses machine learning algorithms to predict diabetes based on different parameters.
+
+---
+
+## Digital Filter Design 🎧📡🧬
+
+In this project, we focus on designing digital filters to remove unwanted noise or interference, extract specific frequency components, and shape the frequency response of a system.
 
 
 <h1 align="center">🎓 Education</h1> 
