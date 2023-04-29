@@ -2,13 +2,18 @@
 
 <h1 align="center"> 🌠 About </h1>
 👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.
+
 ---
+
 🔭 I'm passionate about coding and developing software. I have experience working with a variety of tools and technologies, including GitHub, Slack, Bash, and Visual Studio Code Workbench.
+
 ---
+
 🌱 Currently, I'm working on developing my skills in various programming languages and exploring new technologies. In my free time, I enjoy participating in coding competitions and contributing to open-source projects.
+
 ---
 💬 If you have any questions or want to connect, feel free to reach out to me on my GitHub profile or through LinkedIn.
----
+
 <h1 align="center"> 🔬 Skills and Technologies  </h1> 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
