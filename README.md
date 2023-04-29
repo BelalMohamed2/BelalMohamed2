@@ -1,12 +1,9 @@
 <h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineering Student 👨‍🔬 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
-[![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
-[![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
-# 🌠 About 
+<h1 align="center"> 🌠 About </h1>
 Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a current college student studying Biomedical Engineering. As I prepare for my senior year and graduation project, I am eager to find a mentor to guide and support me in the field of biomedical engineering.
 
-# 🔬 Skills and Technologies 
+<h1 align="center"> 🔬 Skills and Technologies  </h1> 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -21,8 +18,7 @@ Hello and welcome to my LinkedIn profile! My name is Belal Mohamed, and I am a c
 
 📈 Data Analysis: `Excel`, `R`, `Tableau`, `GraphPad Prism` \
 
- Tools and Technologies: 
-## 🔧Tools and Technologies 
+<h1 align="center"> 🔧Tools and Technologies  </h1> 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
@@ -92,6 +88,8 @@ A website that uses machine learning algorithms to predict diabetes based on dif
 
 
 ## 📞 Contact
-
+[![Linkedin Badge](https://img.shields.io/badge/-belalmohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belalmohamed/)](https://www.linkedin.com/in/belalmohamed/)
+[![GitHub followers](https://img.shields.io/github/followers/belal-mohamed?label=Follow&style=social)](https://github.com/belal-mohamed?tab=followers)
+[![Portfolio Badge](https://img.shields.io/badge/-belal--mohamed-9cf?style=flat&logo=firefox&logoColor=white&link=https://belal-mohamed.github.io/)](https://belal-mohamed.github.io/)
 - 📧 `belal.mohamed@fiu.edu` \
 - 📱 `(123) 456-7890`
