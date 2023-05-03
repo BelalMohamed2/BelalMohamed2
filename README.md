@@ -77,8 +77,7 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 [![GitHub followers](https://img.shields.io/github/followers/Belal-Mohamed?label=Follow&style=social)](https://github.com/BelalMohamed2?tab=followers)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:belalmohamed.abdelkreem02@eng-st.cu.edu.eg
 )](mailto:belalmohamed.abdelkreem02@eng-st.cu.edu.eg)
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/Belalmo18993616?s=08))
- 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/Belalmo18993616?s=08))
 [![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https:app.slack.com/client/T0195LMKD1R/C019BL1RE12/rimeto_profile/U04PSM1M6DC)
 [![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//belly_abdul_kreem/?igshid=ZDdkNTZiNTM%3D/)
 
