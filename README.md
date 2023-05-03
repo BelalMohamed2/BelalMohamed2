@@ -80,7 +80,5 @@ In this project, we focus on designing digital filters to remove unwanted noise 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/Belalmo18993616?s=08))
 [![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https:app.slack.com/client/T0195LMKD1R/C019BL1RE12/rimeto_profile/U04PSM1M6DC)
 [![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//belly_abdul_kreem/?igshid=ZDdkNTZiNTM%3D/)
-[![trophy](https://github-profile-trophy.vercel.app/?BelalMohamed2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
- 
  </div>
 
