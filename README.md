@@ -1,4 +1,5 @@
 <h1 align="center">Hi Everyone 👋 I'm Belal Mohamed <br> Biomedical Engineer 👨‍🔬 </h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h1 align="center"> 🌠 About </h1>
 <p>👋 Hi there! I'm Belal Mohamed, a student in the Faculty of Engineering and Biomedical Department at Cairo University. I graduated from Kafr El-Sheikh STEM School, a school that is interested in science, technology, engineering, and mathematics.<br><br>
