@@ -62,8 +62,22 @@ A website that uses machine learning algorithms to predict diabetes based on dif
 ## Digital Filter Design 🎧📡🧬
 
 In this project, we focus on designing digital filters to remove unwanted noise or interference, extract specific frequency components, and shape the frequency response of a system.
+## Trophies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=belalmohamed2&label=Profile%20views&color=0e75b6&style=flat" alt="belalmohamed2" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belalmohamed2" alt="belalmohamed2" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belalmohamed2&show_icons=true&locale=en&layout=compact" alt="belalmohamed2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belalmohamed2&show_icons=true&locale=en" alt="belalmohamed2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belalmohamed2&" alt="belalmohamed2" /></p>
+
+#####
 <h1 align="center">🎓 Education</h1> 
  
 
